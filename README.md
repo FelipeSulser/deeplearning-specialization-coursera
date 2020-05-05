@@ -26,11 +26,11 @@ This repo contains all my work for this specialization. All the code base and im
   + Understand the key parameters in a neural network's architecture. 
 
   Code:
-  + [Week 2 - Python Basics with Numpy](./01_Neural_Networks_and_Deep_Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)
-  + [Week 2 - Logistic Regression with a Neural Network mindset](./01_Neural_Networks_and_Deep_Learning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
-  + [Week 3 - Planar data classification with a hidden layer](./01_Neural_Networks_and_Deep_Learning/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-  + [Week 4 - Building your Deep Neural Network: Step by Step](./01_Neural_Networks_and_Deep_Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
-  + [Week 4 - Deep Neural Network: Application](./01_Neural_Networks_and_Deep_Learning/Week%204/Deep%20Neural%20Network%20Application:%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
+  + [Week 2 - Python Basics with Numpy](./01_Neural_Networks_and_Deep_Learning/Week%202/Python_Basics_With_Numpy_v3a.ipynb)
+  + [Week 2 - Logistic Regression with a Neural Network mindset](./01_Neural_Networks_and_Deep_Learning/Week%202/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+  + [Week 3 - Planar data classification with a hidden layer](./01_Neural_Networks_and_Deep_Learning/Week%203/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+  + [Week 4 - Building your Deep Neural Network: Step by Step](./01_Neural_Networks_and_Deep_Learning/Week%204/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+  + [Week 4 - Deep Neural Network: Application](./01_Neural_Networks_and_Deep_Learning/Week%204/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
